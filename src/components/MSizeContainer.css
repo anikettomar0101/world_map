@@ -1,0 +1,25 @@
+.divider-icon {
+  position: relative;
+  width: 230px;
+  height: 1px;
+  flex-shrink: 0;
+}
+.widget-m-size-omposite-in {
+  position: absolute;
+  top: calc(50% + 55px);
+  left: 60px;
+  border-radius: var(--br-md);
+  background-color: var(--purple-heart3);
+  box-shadow: var(--widget-shadow1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-md) var(--padding-lg);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--body-body-12-size);
+  color: var(--snow4);
+  font-family: var(--headline-h52);
+}

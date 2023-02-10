@@ -1,0 +1,179 @@
+.bubble-icon5,
+.bubble-icon6 {
+  position: absolute;
+  top: 198px;
+  left: 827.26px;
+  width: 16.06px;
+  height: 16px;
+}
+.bubble-icon6 {
+  top: 250px;
+  left: 445.76px;
+  width: 25.1px;
+  height: 25px;
+}
+.bubble-icon7,
+.bubble-icon8 {
+  position: absolute;
+  top: 119px;
+  left: 599.36px;
+  width: 16.06px;
+  height: 16px;
+}
+.bubble-icon8 {
+  top: 161px;
+  left: 77.3px;
+}
+.bubble-icon9 {
+  top: 185px;
+  left: 659.92px;
+  width: 237.3px;
+  height: 233.7px;
+}
+.bubble-icon10,
+.bubble-icon11,
+.bubble-icon9 {
+  position: absolute;
+  mix-blend-mode: multiply;
+}
+.bubble-icon10 {
+  top: 192px;
+  left: 214.85px;
+  width: 94.37px;
+  height: 94px;
+  opacity: 0.8;
+}
+.bubble-icon11 {
+  top: 94px;
+  left: 622.77px;
+  width: 228.27px;
+  height: 257px;
+}
+.bubble-icon12 {
+  position: absolute;
+  top: 169px;
+  left: 561.21px;
+  width: 25.1px;
+  height: 25px;
+}
+.bubble-icon13,
+.bubble-icon14 {
+  position: absolute;
+  top: 219px;
+  left: 848.35px;
+  width: 44.17px;
+  height: 44px;
+}
+.bubble-icon14 {
+  top: 214px;
+  left: -80px;
+  width: 204.17px;
+  height: 204.7px;
+}
+.bubble-icon15,
+.bubble-icon16 {
+  position: absolute;
+  top: 92px;
+  left: 102.4px;
+  width: 34.13px;
+  height: 34px;
+}
+.bubble-icon16 {
+  top: 0;
+  left: -80px;
+  width: 306.58px;
+  height: 309.7px;
+  opacity: 0.8;
+  mix-blend-mode: multiply;
+}
+.value16 {
+  position: absolute;
+  width: 45.67%;
+  top: calc(50% - 14px);
+  left: 27.4%;
+  letter-spacing: 0.11px;
+  font-weight: 600;
+  display: inline-block;
+  height: 27.59px;
+}
+.bubble,
+.bubble-icon17 {
+  position: absolute;
+  top: 109px;
+  left: 119.47px;
+  width: 146.58px;
+  height: 146px;
+}
+.bubble-icon17 {
+  top: 0;
+  left: 0;
+  width: 129.51px;
+  height: 129px;
+  mix-blend-mode: multiply;
+}
+.value17 {
+  width: 51.69%;
+  top: calc(50% - 13.5px);
+  left: 24.03%;
+  letter-spacing: 0.11px;
+  font-weight: 600;
+  display: inline-block;
+  height: 27.59px;
+}
+.bubble-icon18,
+.bubble1,
+.value17 {
+  position: absolute;
+}
+.bubble1 {
+  top: 133px;
+  left: 626.47px;
+  width: 129.51px;
+  height: 129px;
+}
+.bubble-icon18 {
+  top: 0;
+  left: -80px;
+  width: 407.98px;
+  height: 418.7px;
+  mix-blend-mode: multiply;
+}
+.text,
+.value18 {
+  position: absolute;
+  letter-spacing: 0.11px;
+  display: inline-block;
+}
+.value18 {
+  width: 27%;
+  top: calc(50% - 17.5px);
+  left: 36.44%;
+  font-weight: 600;
+  height: 27.59px;
+}
+.text {
+  width: 20.95%;
+  top: calc(50% + 8.5px);
+  left: 39.68%;
+  font-size: var(--font-size-lg);
+  font-family: var(--body-body-22);
+  height: 18.4px;
+}
+.bubble2,
+.data {
+  position: absolute;
+  top: 0;
+  left: 216.86px;
+  width: 247.98px;
+  height: 247px;
+}
+.data {
+  top: 24.38px;
+  left: 97.17px;
+  width: 892.52px;
+  height: 286px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--snow4);
+  font-family: var(--headline-h52);
+}

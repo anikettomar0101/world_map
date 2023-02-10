@@ -1,0 +1,59 @@
+.indicator-icon1 {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.amount15,
+.indicator-icon1,
+.title18 {
+  position: relative;
+}
+.title18 {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  font-weight: 300;
+}
+.amount15 {
+  font-size: var(--headline-h62-size);
+  letter-spacing: 0.15px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.info7,
+.tooltip1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tooltip1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--snow4);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-sm);
+  align-items: center;
+  gap: var(--gap-sm);
+}
+.arrow-icon1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 10.99px);
+  width: 22.27px;
+  height: 13.5px;
+}
+.map-pin-pin-with-name1 {
+  position: absolute;
+  top: calc(50% - 250px);
+  right: 1147px;
+  box-shadow: var(--big-shadow);
+  width: 180px;
+  height: 72px;
+  text-align: left;
+  font-size: var(--body-body-12-size);
+  color: var(--night-blue2);
+  font-family: var(--headline-h52);
+}

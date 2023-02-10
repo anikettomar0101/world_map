@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-body-22: Roboto;
+  --headline-h52: Poppins;
+  --font-archivo: Archivo;
+  --font-mulish: Mulish;
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --tips-and-details-overline1-size: 10px;
+  --tips-and-details-caption1-size: 12px;
+  --body-body-22-size: 14px;
+  --body-body-12-size: 16px;
+  --font-size-lg: 16.1px;
+  --font-size-xl: 18.4px;
+  --headline-h62-size: 20px;
+  --font-size-3xl: 20.51px;
+  --headline-h52-size: 22px;
+  --font-size-5xl: 24px;
+  --headline-h41-size: 34px;
+  --headline-h2-size: 60px;
+  --headline-h1-size: 72px;
+
+  /* Colors */
+  --color-gray-100: #171725;
+  --snow4: #fff;
+  --color-darkslateblue-100: #5756b3;
+  --night-blue2: #383874;
+  --color-steelblue-100: #9292c1;
+  --color-steelblue-200: #7878b6;
+  --color-steelblue-300: #5a5a89;
+  --purple-heart3: #8676ff;
+  --color-springgreen: #38f261;
+  --color-lavender-100: #ddddff;
+  --lavender2: #dbdff1;
+  --electric-green2: #00b929;
+  --color-black: #000;
+  --color-lightslategray: #8484a0;
+  --color-ghostwhite: #eef0fa;
+  --color-darkslategray: #44444f;
+  --fervent-pink1: #ff708b;
+  --color-orange: #ffa63f;
+
+  /* Gaps */
+  --gap-5xs: 1px;
+  --gap-4xs: 2px;
+  --gap-3xs: 4px;
+  --gap-2xs: 6px;
+  --gap-xs: 10px;
+  --gap-sm: 12px;
+  --gap-md: 16px;
+  --gap-lg: 17px;
+  --gap-xl: 18px;
+  --gap-2xl: 24px;
+  --gap-3xl: 26px;
+  --gap-4xl: 30px;
+  --gap-5xl: 84px;
+
+  /* Paddings */
+  --padding-xs: 6px;
+  --padding-sm: 10px;
+  --padding-md: 20px;
+  --padding-lg: 30px;
+  --padding-xl: 32px;
+
+  /* border radiuses */
+  --br-2xs: 1px;
+  --br-xs: 6.9px;
+  --br-sm: 8px;
+  --br-md: 10px;
+  --br-lg: 16px;
+  --br-xl: 73px;
+  --br-2xl: 100px;
+
+  /* Effects */
+  --widget-shadow1: 0px 100px 80px rgba(108, 73, 172, 0.07),
+    0px 41.777610778808594px 33.42px rgba(108, 73, 172, 0.05),
+    0px 22.3363094329834px 17.87px rgba(108, 73, 172, 0.04),
+    0px 12.521552085876465px 10.02px rgba(108, 73, 172, 0.04),
+    0px 6.650102138519287px 5.32px rgba(108, 73, 172, 0.03),
+    0px 2.767256498336792px 2.21px rgba(108, 73, 172, 0.02);
+  --big-shadow: 0px 140.8308868408203px 112.66px rgba(41, 52, 149, 0.21),
+    0px 58.83578109741211px 47.07px rgba(41, 52, 149, 0.15),
+    0px 31.456422805786133px 25.17px rgba(41, 52, 149, 0.13),
+    0px 17.634212493896484px 14.11px rgba(41, 52, 149, 0.1),
+    0px 9.365398406982422px 7.49px rgba(41, 52, 149, 0.08),
+    0px 3.8971519470214844px 3.12px rgba(41, 52, 149, 0.06);
+}

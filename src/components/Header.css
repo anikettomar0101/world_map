@@ -1,0 +1,119 @@
+.background1,
+.input {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background1 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--snow4);
+}
+.input {
+  border-radius: var(--br-sm);
+  background-color: var(--color-ghostwhite);
+  width: 520px;
+  height: 32px;
+}
+.icon3 {
+  top: calc(50% - 12px);
+  right: 7px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icon3,
+.search,
+.tab {
+  position: absolute;
+}
+.search {
+  top: calc(50% - 16px);
+  left: calc(50% - 560px);
+  width: 520px;
+  height: 32px;
+}
+.tab {
+  height: 5%;
+  width: 5.52%;
+  top: 95%;
+  right: 33.59%;
+  bottom: 0;
+  left: 60.89%;
+  background-color: var(--color-darkslateblue-100);
+}
+.label,
+.label1 {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  font-weight: 300;
+}
+.label1 {
+  color: var(--color-black);
+}
+.menu,
+.option-icon,
+.profile-icon {
+  position: absolute;
+  top: calc(50% - 12px);
+  overflow: hidden;
+}
+.menu {
+  left: calc(50% + 67px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.option-icon,
+.profile-icon {
+  width: 24px;
+  height: 24px;
+}
+.profile-icon {
+  right: 110px;
+}
+.option-icon {
+  right: 60px;
+}
+.logo-icon {
+  top: calc(50% - 14.75px);
+  left: 1.25px;
+  width: 28.5px;
+  height: 28.5px;
+}
+.logo,
+.logo-icon,
+.orion {
+  position: absolute;
+}
+.orion {
+  top: calc(50% - 11px);
+  left: 37.32px;
+}
+.logo {
+  top: 14px;
+  left: 60px;
+  width: 112px;
+  height: 32px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-archivo);
+}
+.navigation-bar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 60px;
+  text-align: left;
+  font-size: var(--body-body-12-size);
+  color: var(--color-lightslategray);
+  font-family: var(--headline-h52);
+}
